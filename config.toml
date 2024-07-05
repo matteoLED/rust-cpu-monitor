@@ -1,0 +1,5 @@
+refresh_interval = 5
+
+[alert_thresholds]
+cpu_usage = 80.0
+memory_usage = 16000000
